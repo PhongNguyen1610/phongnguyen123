@@ -1,0 +1,13 @@
+D:\LaptrinhC#\BT1chuong4\bin\Debug\BT1chuong4.exe.config
+D:\LaptrinhC#\BT1chuong4\bin\Debug\BT1chuong4.exe
+D:\LaptrinhC#\BT1chuong4\bin\Debug\BT1chuong4.pdb
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.csprojAssemblyReference.cache
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.Chaomung.resources
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.Properties.Resources.resources
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.csproj.GenerateResource.cache
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.exe
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.pdb
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.Tinhtong.resources
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.menu.resources
+D:\LaptrinhC#\BT1chuong4\obj\Debug\BT1chuong4.chuongtrinhtinhtong.resources
